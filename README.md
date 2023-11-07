@@ -2,10 +2,16 @@
 
 I'm Jakub and welcome to my GitHub profile!
 
+<img src="https://github-readme-stats.vercel.app/api?username=kubajznicek" alt="GitHub Stats" align="top"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubajznicek" alt="Top Languages" align="top">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubajznicek)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubajznicek)](https://github.com/anuraghazra/github-readme-stats)
+## Let's Connect
+
+[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40">](https://discordapp.com/users/570257233993007118)  [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40">](https://www.instagram.com/klobasnicek/)   [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40">](https://www.youtube.com/channel/UCYZA_v__hXahuueA5RniUEA)
+
+
+
+
 <!--
 **kubajznicek/kubajznicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
